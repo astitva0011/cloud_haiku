@@ -10,3 +10,6 @@ New to open-source
 Let's see where the journey goes
 
 Hope's for a fun one
+layout: haiku
+title: My first visit to Hacktober
+author: astitva
